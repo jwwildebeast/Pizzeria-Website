@@ -1,0 +1,22 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 2.5vh;
+  height: 5vh;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  list-style: none;
+  box-shadow: 1px 10px 15px rgb(231, 231, 231);
+}
+
+#store {
+
+}
+
+.nav-link {
+  padding-right: 4vw;
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: larger;
+  color: black;
+}
