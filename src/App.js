@@ -1,6 +1,6 @@
 // import { useState } from 'react'
 // import { Routes, Route, useNavigate, Navigate } from 'react-router-dom'
-// import Nav from '../src/components/Nav'
+// import Nav from '/src/components/Nav'
 
 
 // const App = () => {
