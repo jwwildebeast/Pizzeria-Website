@@ -1,7 +1,7 @@
 {
   "name": "pizzeria-website",
   "version": "0.1.0",
-  "home": "https://jwwildebeast.github.io/Pizzeria-Website/",
+  "homepage": "https://jwwildebeast.github.io/Pizzeria-Website/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
